@@ -1,4 +1,4 @@
-# Blog Post
+# My name: Kim Bitnari
 ## My first Blog Post
 * Post1
 * Post2
