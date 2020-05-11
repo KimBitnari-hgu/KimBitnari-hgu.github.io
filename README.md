@@ -1,5 +1,9 @@
-# Blog Post
-## My first Blog Post
+# Introduce
+
+## Name: Kim Bitnari
+## Birth: 1998.08.13
+## Major: Computer science
+
 * Post1
 * Post2
 * Post3
