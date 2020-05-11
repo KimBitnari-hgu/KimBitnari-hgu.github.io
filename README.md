@@ -1,8 +1,7 @@
 # Introduce
-
-## Name: Kim Bitnari
-## Birth: 1998.08.13
-## Major: Computer science
+* Name: Kim Bitnari
+* Birth: 1998.08.13
+* Major: Computer science
 
 * Post1
 * Post2
